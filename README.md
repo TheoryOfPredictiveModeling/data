@@ -27,6 +27,16 @@ Entries in the i-th, j-th position are the divorce rate for the i-th years of sc
 
 *babyboomerdivorce.txt*
 
+## Convex Optimization
+
+Artificial data for testing convex optimization solvers.  Since these files are large, they are not committed in this repo, but linked to seperately.
+
+### Files
+
+[convexoptimization_J.txt](https://byu.box.com/s/kul06cnxhirvlnuzij8v6msehxxycnua)
+
+[convexoptimization_x0.txt](https://byu.box.com/s/hkqeqgvsdxtcrl6vllosemuh398kbls5)
+
 ## Elk and Wolves in Yellowstone
 
 After wolves were reintroduced to Yellowstone National Park in the mid ’90s, population counts for elk and wolves were recorded.
