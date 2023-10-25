@@ -98,6 +98,15 @@ Includes several suggested starting points
 *mgh17.txt*
 *mgh17_startingpoints.txt*
 
+## Michaelis-Menten Reduction
+
+Data for the reaction velocity V as a function of substrate concentration, S, in the form of (S, V).  This should be fit to the model 
+y_\theta(S) = \theta_1 S / (\theta_2 + S).
+
+### Files
+
+*michaelismentenmbam.txt*
+
 ## Rat42
 
 9 data of in the form (t_i, y_i) of crop yield (y) versus growing time (t).
